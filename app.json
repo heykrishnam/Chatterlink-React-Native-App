@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "WeVitChat",
+    "slug": "wevitchat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.wevitchat"
+    },
+    "android": {
+      "package": "com.yourcompany.wevitchat"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-font"
+    ]
+  }
+}
